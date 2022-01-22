@@ -13,3 +13,7 @@ Kristof Raes an 35 years young European Flemish Belgian that...
  - Travel worldwide
  - Crazy about solving problems
  - Nickname: top solver
+
+
+ - [ ] ICT/AV&M coordinator
+ - [x] Lecturer web & new media
