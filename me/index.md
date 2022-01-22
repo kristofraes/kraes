@@ -23,7 +23,7 @@ Is active for the following organizations:
  
  - [MUQID Company](http://company.muqid.com)
    
-   - Top solver
+   - **Top solver**
 
  - RIC
 
