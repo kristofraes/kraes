@@ -16,7 +16,7 @@ title: me
 
 Is active for the following organizations:
 
- - [***Artevelde University of Applied Sciences**](http://www.artevelde-uas.be) 
+ - [**Artevelde University of Applied Sciences**](http://www.artevelde-uas.be) 
    
    - ICT/AV&M coordinator
    - Lecturer web & new media: Computer Science & Software Engineering
