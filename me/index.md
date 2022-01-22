@@ -3,7 +3,7 @@ layout: me
 title: me
 ---
 
-Kristof Raes an 35 years young European Flemish Belgian that...
+**Kristof Raes** an 35 years young European Flemish Belgian that...
 
  - Lives in Aalst, East Flanders, Belgium
  - Loves food & nature (mini/micro forests)
