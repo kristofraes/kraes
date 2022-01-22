@@ -15,5 +15,5 @@ Kristof Raes an 35 years young European Flemish Belgian that...
  - Nickname: top solver
 
 
- - [ ] ICT/AV&M coordinator
- - [x] Lecturer web & new media
+ [ ] ICT/AV&M coordinator
+ [x] Lecturer web & new media
