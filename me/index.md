@@ -12,7 +12,7 @@ title: me
  - Avid in blockchain
  - Travel worldwide
  - Crazy about solving problems
- - Nickname: top solver
+ - Nickname: **top solver**
 
 Is active for the following organizations:
 
@@ -23,7 +23,7 @@ Is active for the following organizations:
  
  - [MUQID Company](http://company.muqid.com)
    
-   - **Top solver**
+   - Top solver
 
  - RIC
 
