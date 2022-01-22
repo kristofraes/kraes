@@ -16,12 +16,12 @@ Kristof Raes an 35 years young European Flemish Belgian that...
 
 Is active for the following organizations:
 
- - Artevelde University Of Applied Sciences
+ - [Artevelde University Of Applied Sciences](http://www.artevelde-uas.be) 
    
    - ICT/AV&M coordinator
    - Lecturer web & new media: Computer Science & Software Engineering
  
- - MUQID Company
+ - [MUQID Company](http://company.muqid.com)
    
    - Top solver
 
