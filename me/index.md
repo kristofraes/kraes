@@ -27,4 +27,6 @@ Is active for the following organizations:
 
  - RIC
 
+Contributed to publications:
 
+ - [Content Management (2021)](http://politeia.be/nl/publicaties/278860-content+management+2021+print)
