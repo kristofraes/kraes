@@ -19,7 +19,7 @@ Is active for the following organizations:
  - [**Artevelde University of Applied Sciences**](http://www.artevelde-uas.be) 
    
    - ICT/AV&M coordinator
-   - Lecturer web & new media: Computer Science & Software Engineering
+   - Lecturer web & new media: [Computer Science & Software Engineering](http://bamaflexweb.arteveldehs.be/BMFUIDetailxOLOD.aspx?a=158623&b=1&c=1)
 
  - [**MUQID Company**](http://company.muqid.com)
    
