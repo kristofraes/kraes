@@ -16,17 +16,17 @@ title: me
 
 Is active for the following organizations:
 
- - [Artevelde University of Applied Sciences](http://www.artevelde-uas.be) 
+ - [***Artevelde University of Applied Sciences**](http://www.artevelde-uas.be) 
    
    - ICT/AV&M coordinator
    - Lecturer web & new media: Computer Science & Software Engineering
- 
- - [MUQID Company](http://company.muqid.com)
+
+ - [**MUQID Company**](http://company.muqid.com)
    
    - Top solver
 
- - RIC
+ - **RIC**
 
 Contributed to publications:
 
- - [Content Management (2021)](http://politeia.be/nl/publicaties/278860-content+management+2021+print)
+ - [**Content Management** (2021)](http://politeia.be/nl/publicaties/278860-content+management+2021+print)
