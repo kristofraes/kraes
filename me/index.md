@@ -14,6 +14,15 @@ Kristof Raes an 35 years young European Flemish Belgian that...
  - Crazy about solving problems
  - Nickname: top solver
 
+Is active for the following organizations:
 
- [ ] ICT/AV&M coordinator
- [x] Lecturer web & new media
+ - Artevelde University Of Applied Sciences
+   
+   - ICT/AV&M coordinator
+   - Lecturer web & new media: Computer Science & Software Engineering
+ 
+ - MUQID Company
+   
+   - Top solver
+
+ - RIC
