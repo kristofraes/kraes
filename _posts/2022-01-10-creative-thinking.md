@@ -6,4 +6,7 @@ tags: thinking
 
 ## Creative thinking
 
+
 ### What is creative thinking?
+
+
