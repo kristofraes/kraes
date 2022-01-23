@@ -4,7 +4,7 @@ title: "What is blockchain"
 tags: blockchain
 ---
 
-# <a name="top"></a>Blockchain
+# <a name="top"></a>Blockchain - the basics
 
 * [Headings](#Headings)
 * [Paragraphs](#Paragraphs)
