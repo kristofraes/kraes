@@ -4,9 +4,7 @@ title: "What is blockchain"
 tags: blockchain
 ---
 
-## Source: [Markdown Test Page](https://github.com/fullpipe/markdown-test-page)
-
-# <a name="top"></a>Markdown Test Page
+# <a name="top"></a>Blockchain
 
 * [Headings](#Headings)
 * [Paragraphs](#Paragraphs)
